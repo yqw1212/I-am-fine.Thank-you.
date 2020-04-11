@@ -13,7 +13,6 @@
     'use strict';
     $(function () {
         $(document).bind("dblclick", function () {
-            $(document).bind("dblclick", function () {
             $("#sfgcyiqz").val("否");
             $("[name='hjnznl']").val("家");
             $("[name='qgnl']").val("家");
@@ -27,7 +26,6 @@
             $("#sfyghxdbsy").val("无");
             $("#sfygxhdbsy").val("无");
             $("button").click();
-        })
         })
     })
     // Your code here...
